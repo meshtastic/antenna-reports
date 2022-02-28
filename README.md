@@ -14,16 +14,18 @@
 
 When performing tests with the intent to contribute please follow these guidelines whenever possible / practical: 
 
-* Perform SOLT calibration (short, open & load calibration) before performing tests.
-* Perform your calibration with the coax cable attached that you will use for testing.
-* Calibrate specifically for the frequency sweep you will be performing during the testing.
-* Sweep beyond the ends of the frequency band
-  * Example: 800-1000MHz for the US915 band
-* Set markers at the start, center and end of the band
-  * Example: 902MHz, 915MHz & 928MHz
-* Utilize your VNA's "time averaging" and "trace smoothing" functionality
-  * Suggested: Averaging of 4, Smoothing of 2
-* Include the manufacturer and model number as the caption in your captured VSWR graph.
+1. Perform SOLT calibration (short, open & load calibration) before performing tests.
+2. Perform your calibration with the coax cable attached that you will use for testing.
+3. Calibrate specifically for the frequency sweep you will be performing during the testing.
+4. Ensure no metal objects are within 2+ wavelengths of the antenna during testing.
+> Example: 915MHz has a wavelength of 33cm or 1.057 feet. Keep metal objects >2ft away.
+5. Sweep beyond the ends of the frequency band
+> Example: 800-1000MHz for the US915 band
+6. Set markers at the start, center and end of the band
+> Example: 902MHz, 915MHz & 928MHz
+7. Utilize your VNA's "time averaging" and "trace smoothing" functionality
+> Suggested: Averaging of 4, Smoothing of 2
+8. Include the manufacturer and model number as the caption in your captured VSWR graph.
 <br>
 <p align=justify>Contributors are welcome to convert the provided template to their preferred editor format provided the overall theme / style of the report remains the same. If you do happen to convert the template to another format (OpenOffice, etc) then please submit the newly created template to the /Template directory for others to utilize also. </p>
 <br>
