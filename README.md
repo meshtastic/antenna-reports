@@ -14,12 +14,12 @@
 
 When performing tests with the intent to contribute please set your VNA up as follows: 
 
-* Perform SOLT calibration (short, open & load calibration) on your VNA before performing tests.
-* Ensure you are performing your calibration with the coax cable attached that you will use for testing.
-* Sweep beyond both ends of the relevant frequency band (If testing for the US 915MHz frequency band sweep 800-1000MHz).
-* Set markers at the start, center and end of the relevant frequency band (902MHz, 915MHz & 928MHz for the US915MHz band).
-* Utilize your VNA's time averaging and trace smoothing functionality (Suggested: Time Averaging of 4, Trace Smoothing set to 2)
-* Include the manufacturer and model number of the antenna as the caption in your captured VSWR graph.
+* Perform SOLT calibration (short, open & load calibration) before performing tests.
+* Perform your calibration with the coax cable attached that you will use for testing.
+* Sweep beyond the ends of the frequency band (Ex: 800-1000MHz for the US915 band)
+* Set markers at the start, center and end of the band (Ex: 902MHz, 915MHz & 928MHz).
+* Utilize your VNA's "time averaging" and "trace smoothing" functionality (Suggested: Averaging of 4, Smoothing of 2)
+* Include the manufacturer and model number as the caption in your captured VSWR graph.
 <br>
 <p>:warning:NanoVNA User Note:warning:</p>
 <p>To make calibration / testing easier and to generate a cleaner final VSWR graph try using the <a href="http://github.com/OneOfEleven/NanoVNA-App">NanoVNA App</a>. A binary executable for Win32 is available under the Win32/Releases directory of that repository.</p>
