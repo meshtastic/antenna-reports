@@ -1,4 +1,4 @@
-## What are Meshtastic-Antenna-Reports?
+## What are Meshtastic Antenna Reports?
 
 <p align=justify> Meshtastic Antenna Reports contain the results of basic usability testing performed on antennas that have been purchased by community members for use with Meshtastic (www.meshtastic.org) hardware. We provide these test results so that others can benefit from our testing when selecting an antenna for their project.<br><br>A Microsoft Publisher template is provided for other community members that own (or otherwise have access to) a vector network analyzer and who wish to contribute by publishing the results of their own antenna testing.</p>
 
