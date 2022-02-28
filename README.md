@@ -1,8 +1,9 @@
-### What are Meshtastic-Antenna-Reports?
+## What are Meshtastic-Antenna-Reports?
 
 <p align=justify> Meshtastic Antenna Reports contain the results of basic usability testing performed on antennas that have been purchased by community members for use with Meshtastic (www.meshtastic.org) hardware. We provide these test results so that others can benefit from our testing when selecting an antenna for their project.<br><br>A Microsoft Publisher template is provided for other community members that own (or otherwise have access to) a vector network analyzer and who wish to contribute by publishing the results of their own antenna testing.</p>
 
-### 915MHz Test Results Summary
+
+## 915MHz Test Results Summary
 |Brand|Model|Antenna Type|Suggested For Use? (Y/N)|
 |-------------|------------------|------------------|--------------|
 |Linx|[ANT-916-CW-HW-SMA](PDFs/Linx%20ANT-916-CW-HW-SMA.pdf)|Omnidirectional Portable Antenna|:heavy_check_mark: Yes|
@@ -10,7 +11,8 @@
 |Seeed|[318020612](PDFs/Seeed%20318020612.pdf)|Omnidirectional Fixed Antenna|:x: No!|
 |ARC Wireless|[ARC-PA0913C01](PDFs/ARC-PA0913C01.pdf)|Directional Fixed Antenna|:heavy_check_mark: Yes|
 
-### Contribution Guidelines
+
+## Contribution Guidelines
 
 When performing tests with the intent to contribute please follow these guidelines whenever possible / practical: 
 
@@ -28,9 +30,7 @@ When performing tests with the intent to contribute please follow these guidelin
 8. Include the manufacturer and model number as the caption in your captured VSWR graph.
 <br>
 <p align=justify>Contributors are welcome to convert the provided template to their preferred editor format provided the overall theme / style of the report remains the same. If you do happen to convert the template to another format (OpenOffice, etc) then please submit the newly created template to the /Template directory for others to utilize also. </p>
-<br>
-<p>:warning:NanoVNA User Note:warning:</p>
-<p>To make calibration / testing easier and to generate a cleaner final VSWR graph try using the <a href="http://github.com/OneOfEleven/NanoVNA-App">NanoVNA App</a>. A binary executable for Win32 is available under the Win32/Releases directory of that repository.</p>
+<p align=justify>:warning: <b>NanoVNA User Note:</b> :warning:<br> To make calibration / testing easier and to generate a cleaner final VSWR graph try using the <a href="http://github.com/OneOfEleven/NanoVNA-App">NanoVNA App</a>. A binary executable for Win32 is available under the Win32/Releases directory of that repository.</p>
 
 <br>
 <br>
