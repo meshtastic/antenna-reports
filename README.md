@@ -11,6 +11,9 @@
 |Seeed|[318020612](PDFs/Seeed%20318020612.pdf)|Omnidirectional Fixed Antenna|:x: No!|
 |ARC Wireless|[ARC-PA0913C01](PDFs/ARC-PA0913C01.pdf)|Directional Fixed Antenna|:heavy_check_mark: Yes|
 
+## 433 / 860 / 863 / 868Mhz Test Results Summary
+<p align=justify>No testing has been performed (or results submitted) for these frequency bands yet.</p>
+<p align=justify>:warning:<B>WARNING</b>:warning: The Seeed Studio antenna (318020612) listed in the 915MHz Test Results Summary is being marketed as covering 860 - 930MHz. The antenna which was tested had a VSWR of over 8 : 1 in the area of 860MHz and <b>will</b> cause damage to hardware. (Update 18Feb2022 - Seeed Studio insists that the antenna should perform well across throughout their suggested frequencies. They are providing a replacement antenna for testing. Until that testing is completed please don't risk using this antenna.)</p>
 
 ## Contribution Guidelines
 
@@ -30,7 +33,7 @@ When performing tests with the intent to contribute please follow these guidelin
 8. Include the manufacturer and model number as the caption in your captured VSWR graph.
 <br>
 <p align=justify>Contributors are welcome to convert the provided template to their preferred editor format provided the overall theme / style of the report remains the same. If you do happen to convert the template to another format (OpenOffice, etc) then please submit the newly created template to the /Template directory for others to utilize also. </p>
-<p align=justify>:warning: <b>NanoVNA User Note:</b> :warning:<br> To make calibration / testing easier and to generate a cleaner final VSWR graph try using the <a href="http://github.com/OneOfEleven/NanoVNA-App">NanoVNA App</a>. A binary executable for Win32 is available under the Win32/Releases directory of that repository.</p>
+<p align=justify>:large_blue_circle: <b>NanoVNA User Note</b> :large_blue_circle:<br> To make calibration / testing easier and to generate a cleaner final VSWR graph try using the <a href="http://github.com/OneOfEleven/NanoVNA-App">NanoVNA App</a>. A binary executable for Win32 is available under the Win32/Releases directory of that repository.</p>
 
 <br>
 <br>
