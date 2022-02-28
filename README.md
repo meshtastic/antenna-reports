@@ -12,14 +12,20 @@
 
 ### Contribution Guidelines
 
-When performing tests with the intent to contribute please set your VNA up as follows: 
+When performing tests with the intent to contribute please follow these guidelines whenever possible / practical: 
 
 * Perform SOLT calibration (short, open & load calibration) before performing tests.
 * Perform your calibration with the coax cable attached that you will use for testing.
-* Sweep beyond the ends of the frequency band (Ex: 800-1000MHz for the US915 band)
-* Set markers at the start, center and end of the band (Ex: 902MHz, 915MHz & 928MHz).
-* Utilize your VNA's "time averaging" and "trace smoothing" functionality (Suggested: Averaging of 4, Smoothing of 2)
+* Calibrate specifically for the frequency sweep you will be performing during the testing.
+* Sweep beyond the ends of the frequency band
+  * Example: 800-1000MHz for the US915 band
+* Set markers at the start, center and end of the band
+  * Example: 902MHz, 915MHz & 928MHz
+* Utilize your VNA's "time averaging" and "trace smoothing" functionality
+  * Suggested: Averaging of 4, Smoothing of 2
 * Include the manufacturer and model number as the caption in your captured VSWR graph.
+<br>
+<p align=justify>Contributors are welcome to convert the provided template to their preferred editor format provided the overall theme / style of the report remains the same. If you do happen to convert the template to another format (OpenOffice, etc) then please submit the newly created template to the /Template directory for others to utilize also. </p>
 <br>
 <p>:warning:NanoVNA User Note:warning:</p>
 <p>To make calibration / testing easier and to generate a cleaner final VSWR graph try using the <a href="http://github.com/OneOfEleven/NanoVNA-App">NanoVNA App</a>. A binary executable for Win32 is available under the Win32/Releases directory of that repository.</p>
