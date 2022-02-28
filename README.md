@@ -31,7 +31,7 @@ When performing tests with the intent to contribute please follow these guidelin
 7. Utilize your VNA's "time averaging" and "trace smoothing" functionality
 > Suggested: Averaging of 4, Smoothing of 2
 8. Include the manufacturer and model number as the caption in your captured VSWR graph.
-<br>
+
 <p align=justify>Contributors are welcome to convert the provided template to their preferred editor format provided the overall theme / style of the report remains the same. If you do happen to convert the template to another format (OpenOffice, etc) then please submit the newly created template to the /Template directory for others to utilize also. </p>
 <p align=justify>:large_blue_circle: <b>NanoVNA User Note</b> :large_blue_circle:<br> To make calibration / testing easier and to generate a cleaner final VSWR graph try using the <a href="http://github.com/OneOfEleven/NanoVNA-App">NanoVNA App</a>. A binary executable for Win32 is available under the Win32/Releases directory of that repository.</p>
 
