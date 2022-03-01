@@ -13,7 +13,7 @@
 
 ## 433 / 860 / 863 / 868Mhz Test Results Summary
 <p align=justify>No testing has been performed (or results submitted) for these frequency bands yet.</p>
-<p align=justify>:warning:<B>WARNING</b>:warning: The Seeed Studio antenna (318020612) listed in the 915MHz Test Results Summary is being marketed as covering 860 - 930MHz. The antenna which was tested had a VSWR of over 8 : 1 in the area of 860MHz and <b>will</b> cause damage to hardware. (Update 18Feb2022 - Seeed Studio insists that the antenna should perform well across throughout their suggested frequencies. They are providing a replacement antenna for testing. Until that testing is completed please don't risk using this antenna.)</p>
+<p align=justify>:warning:<B>WARNING</b>:warning: The Seeed Studio antenna (318020612) listed in the 915MHz Test Results Summary is being marketed as covering 860 - 930MHz. The antenna which was tested had a VSWR of over 8 : 1 in the area of 860MHz and <b>will</b> cause damage to hardware. (Update 18Feb2022 - Seeed Studio insists that the antenna should perform well throughout their suggested frequencies. They are providing a replacement antenna for testing. Until that testing is completed please don't risk using this antenna.)</p>
 
 ## Contribution Guidelines
 
