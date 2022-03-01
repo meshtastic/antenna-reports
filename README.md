@@ -7,7 +7,7 @@
 |Brand|Model|Antenna Type|Suggested For Use? (Y/N)|
 |-------------|------------------|------------------|--------------|
 |Linx|[ANT-916-CW-HW-SMA](PDFs/Linx%20ANT-916-CW-HW-SMA.pdf)|Omnidirectional Portable Antenna|:heavy_check_mark: Yes|
-|Taosglas|[TI.92.2113](PDFs/Taosglas%20TI.92.2113.pdf)|Omnidirectional Portable Antenna|:heavy_check_mark: Yes|
+|Taoglas|[TI.92.2113](PDFs/Taosglas%20TI.92.2113.pdf)|Omnidirectional Portable Antenna|:heavy_check_mark: Yes|
 |Seeed|[318020612](PDFs/Seeed%20318020612.pdf)|Omnidirectional Fixed Antenna|:x: No!|
 |ARC Wireless|[ARC-PA0913C01](PDFs/ARC-PA0913C01.pdf)|Directional Fixed Antenna|:heavy_check_mark: Yes|
 
