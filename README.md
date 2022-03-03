@@ -6,9 +6,9 @@
 
 #### Portable Antennas
 
-<table border="1" style="text-align: left">
+<table border="1" style="width: 100%; text-align: left">
 			<tr>
-                <td><b>Brand</b></td>
+                		<td><b>Brand</b></td>
 				<td><b>Model</b></td>
 				<td><b>Antenna Dimensions</b></td>
 				<td><b>Price</b></td>
@@ -48,7 +48,7 @@
 
 <table border="1" style="text-align: left">
 			<tr>
-                <td><b>Brand</b></td>
+                		<td><b>Brand</b></td>
 				<td><b>Model</b></td>
 				<td><b>Antenna Dimensions</b></td>
 				<td><b>Price</b></td>
@@ -64,7 +64,7 @@
 			<tr>
 				<td>ARC Wireless</td>
 				<td><a href="PDFs/318020612.pdf">ARC-PA0913C01</a></td>
-				<td>389mm (L) x 389mm (W) x 31mm (D)</td>
+				<td>389mm (L) x 389mm (W)</td>
 				<td>$37.50</td>
 				<td>✔️ Yes</td>
 			</tr>
@@ -72,7 +72,7 @@
 
 #### Vehicle Antennas
 
-<table border="1" style="text-align: left">
+<table width=100% border="1" style="text-align: left">
 			<tr>
                 <td><b>Brand</b></td>
 				<td><b>Model</b></td>
