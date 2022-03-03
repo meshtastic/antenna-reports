@@ -30,7 +30,7 @@
 			</tr>
 			<tr>
 				<td>Pulse Larsen</td>
-				<td><a href="W1063M.pdf">W1063M</a></td>
+				<td><a href="PDFs/W1063M.pdf">W1063M</a></td>
 				<td>195mm (L) x 13mm (W)</td>
 				<td>$7.04</td>
 				<td>✔️ Yes</td>
