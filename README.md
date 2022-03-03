@@ -87,7 +87,6 @@
 				<td>$48.95</td>
 				<td>✔️ Yes</td>
 			</tr>
-
 		</table>
 
 ## 433 / 860 / 863 / 868Mhz Test Results Summary
