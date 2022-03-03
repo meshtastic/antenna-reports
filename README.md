@@ -6,25 +6,89 @@
 
 #### Portable Antennas
 
-| Brand        | Model                                                        | Antenna Dimensions     | Price (USD) | Suggested For Use? (Y/N) |
-| ------------ | ------------------------------------------------------------ | ---------------------- | ----------- | ---------------------- |
-| Linx         | [ANT-916-CW-HW-SMA](PDFs/ANT-916-CW-HW-SMA.pdf)       | 120mm (L) x 9.25mm (W) | $9.89       | :heavy_check_mark: Yes   |
-| Taoglas      | [TI.92.2113](PDFs/TI.92.2113.pdf)                  | 198mm (L) x 13mm (W)   | $8.09       | :heavy_check_mark: Yes   |
-| Pulse Larsen | [W1063M](PDFs/W1063M.pdf)                       | 195mm (L) x 13mm (W)   | $7.04       | :heavy_check_mark: Yes   |
-| Maxtena      | [MEA-915-SW-SMA.pdf](PDFs/MEA-915-SW-SMA.pdf) | 113mm (L) x 9mm (W)    | $10.50      | :heavy_check_mark: Yes   |
+<table border="1" style="text-align: left">
+			<tr>
+                <td><b>Brand</b></td>
+				<td><b>Model</b></td>
+				<td><b>Antenna Dimensions</b></td>
+				<td><b>Price</b></td>
+				<td><b>Suggested For Use? (Y/N)</b></td>
+			</tr>
+			<tr>
+				<td>Linx</td>
+				<td><a href="PDFs/ANT-916-CW-HW-SMA.pdf">ANT-916-CW-HW-SMA</a></td>
+				<td>120mm (L) x 9.25mm (W)</td>
+				<td>$9.89 </td>
+				<td>✔️ Yes</td>
+			</tr>
+			<tr>
+				<td>Taoglas</td>
+				<td><a href="PDFs/TI.92.2113.pdf">TI.92.2113</a></td>
+				<td>198mm (L) x 13mm (W)</td>
+				<td>$8.09</td>
+				<td>✔️ Yes</td>
+			</tr>
+			<tr>
+				<td>Pulse Larsen</td>
+				<td><a href="W1063M.pdf">W1063M</a></td>
+				<td>195mm (L) x 13mm (W)</td>
+				<td>$7.04</td>
+				<td>✔️ Yes</td>
+			</tr>
+			<tr>
+				<td>Maxtena</td>
+				<td><a href="PDFs/MEA-915-SW-SMA.pdf">MEA-915-SW-SMA</a></td>
+				<td>113mm (L) x 9mm (W)</td>
+				<td>$10.50</td>
+				<td>✔️ Yes</td>
+			</tr>
+		</table>
 
 #### Fixed (Base) Antennas
 
-| Brand        | Model                                   | Antenna Dimensions               | Price (USD) | Suggested For Use? (Y/N) |
-| ------------ | ------------------------------------------------------------ | ---------------------- | ----------- | ---------------------- |
-| Seeed        | [318020612](PDFs/318020612.pdf)   | 600mm (L) x 40mm (W)             | $35.00      | ❌ No!                    |
-| ARC Wireless | [ARC-PA0913C01](PDFs/ARC-PA0913C01.pdf) | 389mm (L) x 389mm (W) x 31mm (D) | $37.50      | ✔️ Yes                    |
+<table border="1" style="text-align: left">
+			<tr>
+                <td><b>Brand</b></td>
+				<td><b>Model</b></td>
+				<td><b>Antenna Dimensions</b></td>
+				<td><b>Price</b></td>
+				<td><b>Suggested For Use? (Y/N)</b></td>
+			</tr>
+			<tr>
+				<td>Seeed</td>
+				<td><a href="PDFs/318020612.pdf">318020612</a></td>
+				<td>600mm (L) x 40mm (W)</td>
+				<td>$35.00 </td>
+				<td>❌ No!</td>
+			</tr>
+			<tr>
+				<td>ARC Wireless</td>
+				<td><a href="PDFs/318020612.pdf">ARC-PA0913C01</a></td>
+				<td>389mm (L) x 389mm (W) x 31mm (D)</td>
+				<td>$37.50</td>
+				<td>✔️ Yes</td>
+			</tr>
+		</table>
 
 #### Vehicle Antennas
 
-| Brand | Model                                       | Antenna Dimensions      | Price (USD) | Suggested For Use? (Y/N) |
-| ------------ | ------------------------------------------------------------ | ---------------------- | ----------- | ---------------------- |
-| Laird | [TRA9020S3CBN](PDFs/TRA9020S3CBN.pdf) | 68.6mm (L) x 38.1mm (W) | $48.95      | ✔️ Yes                    |
+<table border="1" style="text-align: left">
+			<tr>
+                <td><b>Brand</b></td>
+				<td><b>Model</b></td>
+				<td><b>Antenna Dimensions</b></td>
+				<td><b>Price</b></td>
+				<td><b>Suggested For Use? (Y/N)</b></td>
+			</tr>
+			<tr>
+				<td>Laird</td>
+				<td><a href="PDFs/TRA9020S3CBN.pdf">TRA9020S3CBN</a></td>
+				<td>68.6mm (L) x 38.1mm (W)</td>
+				<td>$48.95</td>
+				<td>✔️ Yes</td>
+			</tr>
+
+		</table>
 
 ## 433 / 860 / 863 / 868Mhz Test Results Summary
 
