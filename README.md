@@ -63,7 +63,7 @@
 			</tr>
 			<tr>
 				<td>ARC Wireless</td>
-				<td><a href="PDFs/318020612.pdf">ARC-PA0913C01</a></td>
+				<td><a href="PDFs/ARC-PA0913C01.pdf">ARC-PA0913C01</a></td>
 				<td>389mm (L) x 389mm (W)</td>
 				<td>$37.50</td>
 				<td>✔️ Yes</td>
