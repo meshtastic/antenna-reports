@@ -43,50 +43,50 @@
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
-				<td>CDEBYTE TX915-JKD-20</td>
-				<td><a href="PDFs/CDEBYTE_TX915-JKD-20.pdf">CDEBYTE_TX915-JKD-20</a></td>
+				<td>CDEBYTE</td>
+				<td><a href="PDFs/CDEBYTE_TX915-JKD-20.pdf">TX915-JKD-20</a></td>
 				<td>200mm (L) x 12mm (W)</td>
 				<td>$7.55/5</td>
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
-				<td>GIZONT Nb-iot</td>
-				<td><a href="PDFs/Gizont_Nb-iot.pdf">GIZONT-Nb-iot</a></td>
+				<td>GIZONT</td>
+				<td><a href="PDFs/Gizont_Nb-iot.pdf">Nb-iot</a></td>
 				<td>200mm (L) x 15mm (W)</td>
 				<td>$4.58</td>
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
 				<td>Stock LoRa32</td>
-				<td><a href="Stock_LoRa32V21161.pdf">Stock_LoRa32V21161</a></td>
+				<td><a href="Stock_LoRa32V21161.pdf">Stock</a></td>
 				<td>50mm (L) x 8mm (W)</td>
 				<td>Stock</td>
 				<td>❌ No!</td>
 			</tr>
 			<tr>
 				<td>Stock T-Beam</td>
-				<td><a href="PDFs/Stock_T-Beam.pdf">Stock_T-Beam</a></td>
+				<td><a href="PDFs/Stock_T-Beam.pdf">Stock</a></td>
 				<td>180mm (L) x 9.5mm (W)</td>
 				<td>Stock</td>
 				<td>❌ No!</td>
 			</tr>
 			<tr>
 				<td>Stock T-Echo</td>
-				<td><a href="PDFs/Stock_T-Echo.pdf">Stock_T-Echo</a></td>
+				<td><a href="PDFs/Stock_T-Echo.pdf">Stock</a></td>
 				<td>60mm (L) x 18mm (W)</td>
 				<td>Stock</td>
 				<td>❌ No!</td>
 			</tr>
 			<tr>
-				<td>Tenmory TB-CSA21</td>
-				<td><a href="PDFs/Tenmory_TB-CSA21.pdf">Tenmory_TB-CSA21</a></td>
+				<td>Tenmory</td>
+				<td><a href="PDFs/Tenmory_TB-CSA21.pdf">TB-CSA21</a></td>
 				<td>194mm (L) x 13 mm (W)</td>
 				<td>$11.99/2</td>
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
-				<td>Ziisor TX915-JZZ-5</td>
-				<td><a href="Ziisor_TX915-JZ-5.pdf">Ziisor_TX915-JZ-5</a></td>
+				<td>Ziisor</td>
+				<td><a href="Ziisor_TX915-JZ-5.pdf">TX915-JZ-5</a></td>
 				<td>50mm (L) x 10mm (W)</td>
 				<td>$2.38</td>
 				<td>❌ No!</td>
