@@ -58,7 +58,7 @@
 			</tr>
 			<tr>
 				<td>Stock LoRa32</td>
-				<td><a href="Stock_LoRa32V21161.pdf">Stock</a></td>
+				<td><a href="PDFs/Stock_LoRa32V21161.pdf">Stock</a></td>
 				<td>50mm (L) x 8mm (W)</td>
 				<td>Stock</td>
 				<td>❌ No!</td>
@@ -86,7 +86,7 @@
 			</tr>
 			<tr>
 				<td>Ziisor</td>
-				<td><a href="Ziisor_TX915-JZ-5.pdf">TX915-JZ-5</a></td>
+				<td><a href="PDFs/Ziisor_TX915-JZ-5.pdf">TX915-JZ-5</a></td>
 				<td>50mm (L) x 10mm (W)</td>
 				<td>$2.38</td>
 				<td>❌ No!</td>
