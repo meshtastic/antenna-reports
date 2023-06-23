@@ -97,7 +97,7 @@
 
 <table border="1" style="text-align: left">
 			<tr>
-                <td><b>Brand</b></td>
+                		<td><b>Brand</b></td>
 				<td><b>Model</b></td>
 				<td><b>Antenna Dimensions</b></td>
 				<td><b>Price</b></td>
