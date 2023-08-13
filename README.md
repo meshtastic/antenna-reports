@@ -121,21 +121,21 @@
 				<td>RAK</td>
 				<td><a href="PDFs/RAK-3dBi.pdf">3dBi Fiberglass</a></td>
 				<td>360mm (L) x 35mm (W)</td>
-				<td>$18</td>
+				<td>$18.00</td>
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
 				<td>Rokland</td>
 				<td><a href="PDFs/Rockland-5_8dBi-Large-Profile.pdf">5.8dBi Large Profile</a></td>
 				<td>800mm (L) x 25mm (W)</td>
-				<td>$22</td>
+				<td>$22.00</td>
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
 				<td>Rokland</td>
 				<td><a href="PDFs/Rockland-6dBi-Low-Profile.pdf">6dBi Low Profile</a></td>
 				<td>650mm (L) x 25mm (W)</td>
-				<td>$21</td>
+				<td>$21.00</td>
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
