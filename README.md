@@ -126,14 +126,14 @@
 			</tr>
 			<tr>
 				<td>Rokland</td>
-				<td><a href="PDFs/Rockland-5_8dBi-Large-Profile.pdf">5.8dbi Large Profile</a></td>
+				<td><a href="PDFs/Rockland-5_8dBi-Large-Profile.pdf">5.8dBi Large Profile</a></td>
 				<td>800mm (L) x 25mm (W)</td>
 				<td>$22</td>
 				<td>✔️ Yes</td>
 			</tr>
 			<tr>
 				<td>Rokland</td>
-				<td><a href="PDFs/Rockland-6dBi-Low-Profile.pdf">6dbi Low Profile</a></td>
+				<td><a href="PDFs/Rockland-6dBi-Low-Profile.pdf">6dBi Low Profile</a></td>
 				<td>650mm (L) x 25mm (W)</td>
 				<td>$21</td>
 				<td>✔️ Yes</td>
