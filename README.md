@@ -168,7 +168,7 @@
 				<td>Laird</td>
 				<td><a href="PDFs/MA9-5N.pdf">MA9-5N</a></td>
 				<td>406mm (L) x 20mm (W)</td>
-				<td>$4.97</td>
+				<td>$17.15</td>
 				<td>✔️ Yes</td>
 			</tr>
 		</table>
