@@ -117,6 +117,34 @@
 				<td>$37.50</td>
 				<td>✔️ Yes</td>
 			</tr>
+			<tr>
+				<td>RAK</td>
+				<td><a href="PDFs/RAK-3dBi.pdf">3dBi Fiberglass</a></td>
+				<td>360mm (L) x 35mm (W)</td>
+				<td>$18.00</td>
+				<td>✔️ Yes</td>
+			</tr>
+			<tr>
+				<td>Rokland</td>
+				<td><a href="PDFs/Rockland-5_8dBi-Large-Profile.pdf">5.8dBi Large Profile</a></td>
+				<td>800mm (L) x 25mm (W)</td>
+				<td>$22.00</td>
+				<td>✔️ Yes</td>
+			</tr>
+			<tr>
+				<td>Rokland</td>
+				<td><a href="PDFs/Rockland-6dBi-Low-Profile.pdf">6dBi Low Profile</a></td>
+				<td>650mm (L) x 25mm (W)</td>
+				<td>$21.00</td>
+				<td>✔️ Yes</td>
+			</tr>
+			<tr>
+				<td>ALFA</td>
+				<td><a href="PDFs/AOA-915-5ACM.pdf">AOA-915-5ACM</a></td>
+				<td>177mm (L) x 21.5mm (W)</td>
+				<td>$4.97</td>
+				<td>✔️ Yes</td>
+			</tr>
 		</table>
 
 #### Vehicle Antennas
@@ -134,6 +162,13 @@
 				<td><a href="PDFs/TRA9020S3CBN.pdf">TRA9020S3CBN</a></td>
 				<td>68.6mm (L) x 38.1mm (W)</td>
 				<td>$48.95</td>
+				<td>✔️ Yes</td>
+			</tr>
+			<tr>
+				<td>Laird</td>
+				<td><a href="PDFs/MA9-5N.pdf">MA9-5N</a></td>
+				<td>406mm (L) x 20mm (W)</td>
+				<td>$17.15</td>
 				<td>✔️ Yes</td>
 			</tr>
 		</table>
