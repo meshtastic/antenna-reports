@@ -4,6 +4,32 @@
 
 ## 915MHz Test Results Summary
 
+#### Internal Device Antennas
+
+<table width=100% border="1" style="text-align: left">
+			<tr>
+                <td><b>Brand</b></td>
+				<td><b>Model</b></td>
+				<td><b>Antenna Dimensions</b></td>
+				<td><b>Price</b></td>
+				<td><b>Suggested For Use? (Y/N)</b></td>
+			</tr>
+			<tr>
+				<td>TE / Linx</td>
+				<td><a href="PDFs/ANT-89-FPC-UFL-100.pdf">ANT-8/9-FPC-UFL-100</a></td>
+				<td>39mm (L) x 15mm (W)</td>
+				<td>$4.66</td>
+				<td>✔️ Yes</td>
+			</tr>
+			<tr>
+				<td>Molex</td>
+				<td><a href="PDFs/206764-0050.pdf">206764-0050</a></td>
+				<td>100mm (L) x 16mm (W)</td>
+				<td>$3.76</td>
+				<td>✔️ Yes</td>
+			</tr>
+		</table>
+
 #### Portable Antennas
 
 <table border="1" style="width: 100%; text-align: left">
