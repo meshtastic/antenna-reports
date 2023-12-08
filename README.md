@@ -171,6 +171,13 @@
 				<td>$4.97</td>
 				<td>✔️ Yes</td>
 			</tr>
+			<tr>
+				<td>ZDTECH</td>
+				<td><a href="PDFs/ZDTECH-ZD-OA-915-7NM.pdf">ZD-OA-915-7NM</a></td>
+				<td>360mm (L) x 23mm (W)</td>
+				<td>$23.37</td>
+				<td>✔️ Yes</td>
+			</tr>
 		</table>
 
 #### Vehicle Antennas
