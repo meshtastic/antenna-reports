@@ -178,6 +178,13 @@
 				<td>$23.37</td>
 				<td>✔️ Yes</td>
 			</tr>
+			<tr>
+				<td>Canadian Noname Vendor</td>
+				<td><a href="PDFs/B0BSXWY4G3.pdf">B0BSXWY4G3</a></td>
+				<td>300mm (L) x 23mm (W)</td>
+				<td>$25 (CAN)</td>
+				<td>✔️ Yes</td>
+			</tr>
 		</table>
 
 #### Vehicle Antennas
