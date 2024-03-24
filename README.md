@@ -1,3 +1,5 @@
+[![CLA assistant](https://cla-assistant.io/readme/badge/meshtastic/antenna-reports)](https://cla-assistant.io/meshtastic/antenna-reports)
+
 ## What are Meshtastic Antenna Reports?
 
 Meshtastic Antenna Reports contain the results of basic usability testing performed on antennas that have been purchased by community members for use with [Meshtastic](https://www.meshtastic.org) hardware. These test results are provided so that the community can benefit from the testing other community members have completed when selecting an antenna for their hardware.
