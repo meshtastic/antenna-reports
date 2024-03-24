@@ -41,7 +41,8 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | Rokland | [6dBi Low Profile](PDFs/Rockland-6dBi-Low-Profile.pdf) | 650mm (L) x 25mm (W) | $21.00 | ✔️ Yes |
 | ALFA | [AOA-915-5ACM](PDFs/AOA-915-5ACM.pdf) | 177mm (L) x 21.5mm (W) | $4.97 | ✔️ Yes |
 | ZDTECH | [ZD-OA-915-7NM](PDFs/ZDTECH-ZD-OA-915-7NM.pdf) | 360mm (L) x 23mm (W) | $23.37 | ✔️ Yes |
-| Canadian Noname Vendor | [B0BSXWY4G3](PDFs/B0BSXWY4G3.pdf) | 300mm (L) x 23mm (W) | $25 (CAN) | ✔️ Yes |
+| Canadian Amazon Vendor | [B0BSXWY4G3](PDFs/B0BSXWY4G3.pdf) | 300mm (L) x 23mm (W) | $25 (CAN) | ✔️ Yes |
+| Canadian Amazon Vendor (YAGI) | [B0CLY5NPMQ](PDFs/B0CLY5NPMQ.pdf) | 356mm (L) 94mm (W) | $29.90 (CAN) | ✔️ Yes |
 
 > [!WARNING] 
 > The Seeed Studio antenna (318020612) listed in the 915MHz Test Results Summary is being marketed as covering 860 - 930MHz. The antenna which was tested had a VSWR of over 8 : 1 in the area of 860MHz and **will** cause damage to hardware. (Update 18Feb2022 - Seeed Studio insists that the antenna should perform well throughout their suggested frequencies. They are providing a replacement antenna for testing. Until that testing is completed please don't risk using this antenna.)
