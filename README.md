@@ -55,6 +55,7 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | --- | --- | --- | --- | --- |
 | Laird | [TRA9020S3CBN](PDFs/TRA9020S3CBN.pdf) | 68.6mm (L) x 38.1mm (W) | $48.95 | ✔️ Yes |
 | Laird | [MA9-5N](PDFs/MA9-5N.pdf) | 406mm (L) x 20mm (W) | $17.15 | ✔️ Yes |
+| Eifagur | [ALF1880](PDFs/Eifagur-ALF1880-B09MRGDTPZ.pdf) | 350mm (L) x 80mm (W) | $26.99 | ✔️ Yes |
 
 ## 433 / 860 / 863 / 868Mhz Test Results Summary
 
