@@ -20,6 +20,7 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | Brand | Model | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
 | --- | --- | --- | --- | --- |
 | Linx | [ANT-916-CW-HW-SMA](PDFs/ANT-916-CW-HW-SMA.pdf) | 120mm (L) x 9.25mm (W) | $9.89 | ✔️ Yes |
+| Linx | [ANT-916-CW-RCS](PDFs/TE_Connectivity_Linx-ANT-916-CW-RCS-ND.pdf) | 54mm (L) x 9.4mm (W) | $6.54 | ✔️ Yes |
 | Taoglas | [TI.92.2113](PDFs/TI.92.2113.pdf) | 198mm (L) x 13mm (W) | $8.09 | ✔️ Yes |
 | Pulse Larsen | [W1063M](PDFs/W1063M.pdf) | 195mm (L) x 13mm (W) | $7.04 | ✔️ Yes |
 | Maxtena | [MEA-915-SW-SMA](PDFs/MEA-915-SW-SMA.pdf) | 113mm (L) x 9mm (W) | $10.50 | ✔️ Yes |
