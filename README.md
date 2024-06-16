@@ -82,7 +82,7 @@ When performing tests with the intent to contribute please follow these guidelin
 Contributors are welcome to convert the provided templates to their preferred editor format, as long as the overall theme and style of the report remain the same. If you convert the template to another format (e.g., OpenOffice), please submit the newly created template to the /Templates directory for others to utilize.
 
 > [!Note]
-> To make calibration / testing easier and to generate a cleaner final VSWR graph try using the [NanoVNA App](http://github.com/OneOfEleven/NanoVNA-App). A binary executable for Win32 is available under the Win32/Releases directory of that repository.
+> To make calibration / testing easier and to generate a cleaner final VSWR graph try using the [NanoVNA App](https://github.com/owenduffy/NanoVNA-App). A binary executable for Win32 is available under the Win32/Releases directory of that repository.
 
 ### Copyright / Trademark Notice
 
