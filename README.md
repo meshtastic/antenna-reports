@@ -20,6 +20,7 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | Brand | Model | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
 | --- | --- | --- | --- | --- |
 | Linx | [ANT-916-CW-HW-SMA](PDFs/ANT-916-CW-HW-SMA.pdf) | 120mm (L) x 9.25mm (W) | $9.89 | ✔️ Yes |
+| Linx | [ANT-916-CW-RCS](PDFs/TE_Connectivity_Linx-ANT-916-CW-RCS-ND.pdf) | 54mm (L) x 9.4mm (W) | $6.54 | ✔️ Yes |
 | Taoglas | [TI.92.2113](PDFs/TI.92.2113.pdf) | 198mm (L) x 13mm (W) | $8.09 | ✔️ Yes |
 | Pulse Larsen | [W1063M](PDFs/W1063M.pdf) | 195mm (L) x 13mm (W) | $7.04 | ✔️ Yes |
 | Maxtena | [MEA-915-SW-SMA](PDFs/MEA-915-SW-SMA.pdf) | 113mm (L) x 9mm (W) | $10.50 | ✔️ Yes |
@@ -55,6 +56,7 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | --- | --- | --- | --- | --- |
 | Laird | [TRA9020S3CBN](PDFs/TRA9020S3CBN.pdf) | 68.6mm (L) x 38.1mm (W) | $48.95 | ✔️ Yes |
 | Laird | [MA9-5N](PDFs/MA9-5N.pdf) | 406mm (L) x 20mm (W) | $17.15 | ✔️ Yes |
+| Eifagur | [ALF1880](PDFs/Eifagur-ALF1880-B09MRGDTPZ.pdf) | 350mm (L) x 80mm (W) | $26.99 | ✔️ Yes |
 
 ## 433 / 860 / 863 / 868Mhz Test Results Summary
 
@@ -80,7 +82,7 @@ When performing tests with the intent to contribute please follow these guidelin
 Contributors are welcome to convert the provided templates to their preferred editor format, as long as the overall theme and style of the report remain the same. If you convert the template to another format (e.g., OpenOffice), please submit the newly created template to the /Templates directory for others to utilize.
 
 > [!Note]
-> To make calibration / testing easier and to generate a cleaner final VSWR graph try using the [NanoVNA App](http://github.com/OneOfEleven/NanoVNA-App). A binary executable for Win32 is available under the Win32/Releases directory of that repository.
+> To make calibration / testing easier and to generate a cleaner final VSWR graph try using the [NanoVNA App](https://github.com/owenduffy/NanoVNA-App). A binary executable for Win32 is available under the Win32/Releases directory of that repository.
 
 ### Copyright / Trademark Notice
 
