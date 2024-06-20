@@ -65,6 +65,7 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | Brand | Model | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
 | --- | --- | --- | --- | --- |
 | DIYMalls | [DIY0147](PDFs/DIYmalls_DIY0147.pdf) | 195mm (L) x 13mm (W) | $3.64 | ✔️ Yes |
+| DSWF | [DSWF-868-12dbi-37.5](PDFs/DSWF_868_12dbi_375mm.pdf) | 375mm (L) x 13mm (W) | $3.44 | ❌ No |
 
 
 
