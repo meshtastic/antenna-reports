@@ -64,7 +64,8 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 
 | Brand | Model | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
 | --- | --- | --- | --- | --- |
-| Linx | [DIY0147](PDFs/DIYmalls_DIY0147.pdf) | 195mm (L) x 13mm (W) | $3.64 | ✔️ Yes |
+| DIYMalls | [DIY0147](PDFs/DIYmalls_DIY0147.pdf) | 195mm (L) x 13mm (W) | $3.64 | ✔️ Yes |
+
 
 
 ## 433 / 860 / 863 Mhz Test Results Summary
