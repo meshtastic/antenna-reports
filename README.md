@@ -59,7 +59,18 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | Laird | [MA9-5N](PDFs/MA9-5N.pdf) | 406mm (L) x 20mm (W) | $17.15 | ✔️ Yes |
 | Eifagur | [ALF1880](PDFs/Eifagur-ALF1880-B09MRGDTPZ.pdf) | 350mm (L) x 80mm (W) | $26.99 | ✔️ Yes |
 
-## 433 / 860 / 863 / 868Mhz Test Results Summary
+## 868MHz Test Results Summary
+
+### Portable Antennas
+
+| Brand | Model | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
+| --- | --- | --- | --- | --- |
+| DIYMalls | [DIY0147](PDFs/DIYmalls_DIY0147.pdf) | 195mm (L) x 13mm (W) | $3.64 | ✔️ Yes |
+| DSWF | [DSWF-868-12dbi-37.5](PDFs/DSWF_868_12dbi_375mm.pdf) | 375mm (L) x 13mm (W) | $3.44 | ❌ No |
+
+
+
+## 433 / 860 / 863 Mhz Test Results Summary
 
 No testing has been performed (or results submitted) for these frequency bands yet.
 
