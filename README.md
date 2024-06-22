@@ -46,6 +46,7 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | ZDTECH | [ZD-OA-915-7NM](PDFs/ZDTECH-ZD-OA-915-7NM.pdf) | 360mm (L) x 23mm (W) | $23.37 | ✔️ Yes |
 | Canadian Amazon Vendor | [B0BSXWY4G3](PDFs/B0BSXWY4G3.pdf) | 300mm (L) x 23mm (W) | $25 (CAN) | ✔️ Yes |
 | Canadian Amazon Vendor (YAGI) | [B0CLY5NPMQ](PDFs/B0CLY5NPMQ.pdf) | 356mm (L) 94mm (W) | $29.90 (CAN) | ✔️ Yes |
+| Taoglas (Omni) | [OMB.915.B08F21](PDFs/Taoglas_Barracuda_OMB.915.B0_1475mm_8dbi.pdf) | 1474mm (L) | $233.68+tax (CAN) | 🤷‍♂️💸💸 |
 
 > [!WARNING] 
 > The Seeed Studio antenna (318020612) listed in the 915MHz Test Results Summary is being marketed as covering 860 - 930MHz. The antenna which was tested had a VSWR of over 8 : 1 in the area of 860MHz and **will** cause damage to hardware. (Update 18Feb2022 - Seeed Studio insists that the antenna should perform well throughout their suggested frequencies. They are providing a replacement antenna for testing. Until that testing is completed please don't risk using this antenna.)
