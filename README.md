@@ -6,6 +6,8 @@ Meshtastic Antenna Reports contain the results of basic usability testing perfor
 
 Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) for community members who have access to a vector network analyzer and wish to contribute by publishing the results of their own antenna testing.
 
+> **Note:** Antenna manufacturers often make highly-optimistic claims of gain. Gain figures listed are provided by the manufacturer.
+
 ## 915MHz Test Results Summary
 
 ### Internal Device Antennas
@@ -35,29 +37,29 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 
 ### Fixed (Base) Antennas
 
-| Brand | Model | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
-| --- | --- | --- | --- | --- |
-| Seeed | [318020612](PDFs/318020612.pdf) | 600mm (L) x 40mm (W) | $35.00 | ❌ No! |
-| ARC Wireless | [ARC-PA0913C01](PDFs/ARC-PA0913C01.pdf) | 389mm (L) x 389mm (W) | $37.50 | ✔️ Yes |
-| RAK | [3dBi Fiberglass](PDFs/RAK-3dBi.pdf) | 360mm (L) x 35mm (W) | $18.00 | ✔️ Yes |
-| Rokland | [5.8dBi Large Profile](PDFs/Rockland-5_8dBi-Large-Profile.pdf) | 800mm (L) x 25mm (W) | $22.00 | ✔️ Yes |
-| Rokland | [6dBi Low Profile](PDFs/Rockland-6dBi-Low-Profile.pdf) | 650mm (L) x 25mm (W) | $21.00 | ✔️ Yes |
-| ALFA | [AOA-915-5ACM](PDFs/AOA-915-5ACM.pdf) | 177mm (L) x 21.5mm (W) | $4.97 | ✔️ Yes |
-| ZDTECH | [ZD-OA-915-7NM](PDFs/ZDTECH-ZD-OA-915-7NM.pdf) | 360mm (L) x 23mm (W) | $23.37 | ✔️ Yes |
-| Canadian Amazon Vendor | [B0BSXWY4G3](PDFs/B0BSXWY4G3.pdf) | 300mm (L) x 23mm (W) | $25 (CAN) | ✔️ Yes |
-| Canadian Amazon Vendor (YAGI) | [B0CLY5NPMQ](PDFs/B0CLY5NPMQ.pdf) | 356mm (L) 94mm (W) | $29.90 (CAN) | ✔️ Yes |
-| Taoglas (Omni) | [OMB.915.B08F21](PDFs/Taoglas_Barracuda_OMB.915.B0_1475mm_8dbi.pdf) | 1474mm (L) | $233.68+tax (CAN) | 🤷‍♂️💸💸 |
+| Brand | Model | Gain (dBi) | Pattern | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Seeed | [318020612](PDFs/318020612.pdf) | 5 | Omni | 600mm (L) x 40mm (W) | $35.00 | ❌ No! |
+| ARC Wireless | [ARC-PA0913C01](PDFs/ARC-PA0913C01.pdf) | 13.2 | **Panel** | 389mm (L) x 389mm (W) | $37.50 | ✔️ Yes |
+| RAK | [3dBi Fiberglass](PDFs/RAK-3dBi.pdf) | 3 | Omni |360mm (L) x 35mm (W) | $18.00 | ✔️ Yes |
+| Rokland | [5.8dBi Large Profile](PDFs/Rockland-5_8dBi-Large-Profile.pdf) | 5.8 | Omni | 800mm (L) x 25mm (W) | $22.00 | ✔️ Yes |
+| Rokland | [6dBi Low Profile](PDFs/Rockland-6dBi-Low-Profile.pdf) | 6 | Omni | 650mm (L) x 25mm (W) | $21.00 | ✔️ Yes |
+| ALFA | [AOA-915-5ACM](PDFs/AOA-915-5ACM.pdf) | 5 | Omni | 177mm (L) x 21.5mm (W) | $4.97 | ✔️ Yes |
+| ZDTECH | [ZD-OA-915-7NM](PDFs/ZDTECH-ZD-OA-915-7NM.pdf) | 7 | Omni | 360mm (L) x 23mm (W) | $23.37 | ✔️ Yes |
+| Canadian Amazon Vendor | [B0BSXWY4G3](PDFs/B0BSXWY4G3.pdf) | 3 | Omni | 300mm (L) x 23mm (W) | $25 (CAN) | ✔️ Yes |
+| Canadian Amazon Vendor (YAGI) | [B0CLY5NPMQ](PDFs/B0CLY5NPMQ.pdf) | 7-9 | **Yagi** | 356mm (L) 94mm (W) | $29.90 (CAN) | ✔️ Yes |
+| Taoglas (Omni) | [OMB.915.B08F21](PDFs/Taoglas_Barracuda_OMB.915.B0_1475mm_8dbi.pdf) | 8 | Omni | 1474mm (L) | $233.68+tax (CAN) | 🤷‍♂️💸💸 |
 
 > [!WARNING] 
 > The Seeed Studio antenna (318020612) listed in the 915MHz Test Results Summary is being marketed as covering 860 - 930MHz. The antenna which was tested had a VSWR of over 8 : 1 in the area of 860MHz and **will** cause damage to hardware. (Update 18Feb2022 - Seeed Studio insists that the antenna should perform well throughout their suggested frequencies. They are providing a replacement antenna for testing. Until that testing is completed please don't risk using this antenna.)
 
 ### Vehicle Antennas
 
-| Brand | Model | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
-| --- | --- | --- | --- | --- |
-| Laird | [TRA9020S3CBN](PDFs/TRA9020S3CBN.pdf) | 68.6mm (L) x 38.1mm (W) | $48.95 | ✔️ Yes |
-| Laird | [MA9-5N](PDFs/MA9-5N.pdf) | 406mm (L) x 20mm (W) | $17.15 | ✔️ Yes |
-| Eifagur | [ALF1880](PDFs/Eifagur-ALF1880-B09MRGDTPZ.pdf) | 350mm (L) x 80mm (W) | $26.99 | ✔️ Yes |
+| Brand | Model | Gain (dBi) | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
+| --- | --- | --- | --- | --- | --- |
+| Laird | [TRA9020S3CBN](PDFs/TRA9020S3CBN.pdf) | 3 | 68.6mm (L) x 38.1mm (W) | $48.95 | ✔️ Yes |
+| Laird | [MA9-5N](PDFs/MA9-5N.pdf) | 5 | 06mm (L) x 20mm (W) | $17.15 | ✔️ Yes |
+| Eifagur | [ALF1880](PDFs/Eifagur-ALF1880-B09MRGDTPZ.pdf) | 5.8 | 350mm (L) x 80mm (W) | $26.99 | ✔️ Yes |
 
 ## 868MHz Test Results Summary
 
