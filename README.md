@@ -70,6 +70,13 @@ Templates are provided (MS Publisher 2016 & fillable Adobe Acrobat PDF formats) 
 | DIYMalls | [DIY0147](PDFs/DIYmalls_DIY0147.pdf) | 195mm (L) x 13mm (W) | $3.64 | ✔️ Yes |
 | DSWF | [DSWF-868-12dbi-37.5](PDFs/DSWF_868_12dbi_375mm.pdf) | 375mm (L) x 13mm (W) | $3.44 | ❌ No |
 
+### Fixed (Base) Antennas
+
+| Brand | Model | Gain (dBi) | Pattern | Antenna Dimensions | Price | Suggested For Use? (Y/N) |
+| --- | --- | --- | --- | --- | --- | --- |
+| ALFA | [AOA-868-5ACM](PDFs/AOA-868-5ACM.pdf) | 5 | Omni | 177mm (L) x 21.5mm (W) | $18.00 | ✔️ Yes |
+| McGill | [MM-ANT-NM-868-3DBI](PDFs/MM-ANT-NM-868-3DBI.pdf) | 3 | Omni | 300mm (L) x 20mm (W) | $61.75 | ✔️ Yes |
+| McGill | [MM-ANT-NM-868-7.5DBI](PDFs/MM-ANT-NM-868-75DBI.pdf) | 7.5 | Omni | 1140mm (L) x 38mm (W) | $144.08 | ✔️ Yes |
 
 
 ## 433 / 860 / 863 Mhz Test Results Summary
